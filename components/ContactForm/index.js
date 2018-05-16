@@ -172,7 +172,11 @@ class Component extends React.Component {
                   {disabled && (
                     <p>Please fill out the required fields before submitting</p>
                   )}
-                  <button type="submit" disabled={disabled} className="submit">
+                  <button
+                    type="submit"
+                    disabled={disabled && !this.state.submitted}
+                    className="submit"
+                  >
                     {this.state.submitted ? 'Submitted. Thanks!' : 'Submit'}
                   </button>
                 </div>
