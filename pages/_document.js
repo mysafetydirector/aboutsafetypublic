@@ -42,7 +42,7 @@ export default class MyDocument extends Document {
           />
           <meta name="theme-color" content="#ffffff" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@IOPipes" />
+          <meta name="twitter:site" content="@MySafetyLeader" />
           <meta name="twitter:title" content="About Safety" />
           <meta name="twitter:description" content="About Safety" />
           <meta

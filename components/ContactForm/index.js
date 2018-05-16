@@ -165,7 +165,7 @@ class Component extends React.Component {
                   {this.state.formSubmitError && (
                     <div style={{ margin: '0 0 1rem 0' }}>
                       Oops! Something went wrong trying to submit this form.
-                      <br />Contact support@iopipe.com for help.<br />
+                      <br />Contact mysafetyleader@gmail.com for help.<br />
                       Error: {this.state.formSubmitError}
                     </div>
                   )}
