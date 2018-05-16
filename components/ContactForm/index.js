@@ -134,7 +134,7 @@ class Component extends React.Component {
             errors,
             touched
           }) => {
-            const disabled = Object.values(errors).length;
+            const disabled = Object.values(errors).length || null;
             return (
               <form
                 onSubmit={handleSubmit}
