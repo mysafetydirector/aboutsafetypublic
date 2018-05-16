@@ -40,7 +40,7 @@ class Component extends React.Component {
       const res = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: encode({ 'form-name': 'govcloud', ...values })
+        body: encode({ 'form-name': 'contact', ...values })
       });
       if (!res.ok) {
         return this.setState({ formSubmitError: res.statusText });
