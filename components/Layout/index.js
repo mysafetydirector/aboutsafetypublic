@@ -8,7 +8,7 @@ import normalize from '../../util/style/normalize';
 import main from '../../util/style/main';
 
 if (typeof window !== 'undefined') {
-  ga.initialize('UA-73165042-3');
+  ga.initialize('UA-12808821-18');
 }
 
 export default class Layout extends Document {
