@@ -7,7 +7,7 @@ function Component() {
   return (
     <Layout>
       <div className="wrap">
-        <h1 className="h1">About Safety</h1>
+        <h1 className="h1">About Safety Training</h1>
         <hr className="flourish" />
         <div className="photoBadge">
           <div className="headshotWrap">
