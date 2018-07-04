@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import Layout from '../components/Layout';
 import ContactForm from '../components/ContactForm';
@@ -13,7 +13,7 @@ function Component() {
           <div className="headshotWrap">
             <img
               src="/static/img/headshot.jpg"
-              alt="Photo of Ed Light"
+              alt="Photo of Ed Light II"
               className="headshot"
             />
           </div>
