@@ -18,7 +18,7 @@ function Component() {
             />
           </div>
           <h2 className="subtitle">
-            OSHA Compliant Safety Training<br />With Ed Light, CSP
+            OSHA Compliant Safety Training<br />With Ed Light, MSc, CSP
           </h2>
         </div>
         <br />
