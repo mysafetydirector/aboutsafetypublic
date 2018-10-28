@@ -13,7 +13,7 @@ function Component() {
           <div className="headshotWrap">
             <img
               src="/static/img/headshot.jpg"
-              alt="Photo of Ed Light II"
+              alt="A Photo of Ed Light II"
               className="headshot"
             />
           </div>
