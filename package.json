@@ -13,7 +13,7 @@
     "babel-plugin-lodash": "^3.3.2",
     "next": "^6.0.2",
     "styled-jsx": "^2.2.6",
-    "webpack": "^3"
+    "webpack": "^5"
   },
   "dependencies": {
     "form-urlencoded": "^2.0.7",
